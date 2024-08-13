@@ -1,11 +1,14 @@
 
 Decorator design pattern
 
-
 Base class with minimal feature is present
 --> the decorator design pattern will add a wrapper on this base class
     and add its own more features.
 
+The idea for the decorator pattern is to enable custmization among various combinational choices.
+
+for example: pizza store, it provided n number of combinations to choose from, and customization acoordingly can
+be achived.
 
 Decorator pattern has 4 components
 
