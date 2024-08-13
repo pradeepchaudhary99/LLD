@@ -1,0 +1,28 @@
+
+Decorator design pattern
+
+
+Base class with minimal feature is present
+--> the decorator design pattern will add a wrapper on this base class
+    and add its own more features.
+
+
+Decorator pattern has 4 components
+
+1. Component Interface
+ --> Interface or Abstract class defining the methods that will be implemented.
+
+2. Component implementation
+    --> The basic implementation of the component interface
+
+3. Decorator
+   --> Decorator class implements the component interface and it has a HAS-A relationship
+       with the component interface.
+       the component variable should be accessible to the child decorator classes, so we will
+       make this variable protected.
+
+4. Concreate Decorators
+    --> Extending the base decorator functionality and modifying the component behaviour accordingly.
+
+
+
