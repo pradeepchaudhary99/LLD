@@ -1,0 +1,21 @@
+Advantage of SOLID Principle:
+ --> Avoid duplicate code
+ --> Easy to maintain
+ --> Easy to understand
+ --> Flexible Software
+ --> reduce Complexity
+
+
+S --> Single responisiblity principle
+    1. A class should have only one reason to change
+
+O --> Open/Closed Principle
+ -> open for extension but closed for modification
+ --> since class is already tested, if u want it can be extended.
+
+ --> create an interface, other classes can implement the functionality
+
+
+
+
+L --> Liskov Subsitution prinicple
