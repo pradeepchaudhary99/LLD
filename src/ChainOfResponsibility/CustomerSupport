@@ -1,0 +1,16 @@
+
+
+3 Levels of customer support
+1. CustomerSupportLevel1
+2. CustomerSupportLevel2
+3. CustomerSupportLevel3
+
+
+
+
+
+client ----> Request ----> backend
+                                1. Level1
+                                        --> Level2
+                                                --> Level3
+

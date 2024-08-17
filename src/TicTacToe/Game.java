@@ -1,14 +1,10 @@
 package TicTacToe;
-
 import java.sql.SQLOutput;
 import java.util.List;
 import java.util.Scanner;
-
 public class Game {
     List<Player> players;
     Board board;
-
-
 
     /* Function taking (x,y) */
     boolean isWinPossible(PlayingPiece piece, int x, int y)
